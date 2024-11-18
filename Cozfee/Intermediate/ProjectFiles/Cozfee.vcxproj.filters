@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Cozfee.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B78537D1-5EAB-4B78-9C75-1E7A7A96B469}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cozfee.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CozfeeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6295E7E0-92E9-42A3-B40D-420E37C67783}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{DA342813-3D96-4398-8074-60EB69BE52E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{AB5E499A-7F95-4EBA-A343-0BBD19CB065B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{BA40DE5B-412B-4241-8D60-D624ED946910}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{4B9B9C03-9AE2-4B09-9621-F0B21248C4CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{812B760D-5C69-4416-9FB2-BF534B0A1E10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{5008EC91-C981-4B41-A098-817EE24C0C08}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{BD04907C-506E-48AA-AE20-1C64F8521D66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{EB5D17F1-17E9-4F3E-8D68-677FDD8639D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Cozfee">
+      <UniqueIdentifier>{320987C7-F57B-4D34-A2E4-01423A7C65F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cozfee\Cozfee.Build.cs">
+      <Filter>Source\Cozfee</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Cozfee\Cozfee.cpp">
+      <Filter>Source\Cozfee</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cozfee\Cozfee.h">
+      <Filter>Source\Cozfee</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cozfee\CozfeeGameModeBase.cpp">
+      <Filter>Source\Cozfee</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cozfee\CozfeeGameModeBase.h">
+      <Filter>Source\Cozfee</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

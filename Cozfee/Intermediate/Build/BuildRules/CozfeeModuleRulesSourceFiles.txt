@@ -1,0 +1,3 @@
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Source\Cozfee\Cozfee.Build.cs
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Source\Cozfee.Target.cs
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Source\CozfeeEditor.Target.cs

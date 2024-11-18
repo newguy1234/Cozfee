@@ -1,0 +1,2 @@
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\Definitions.Cozfee.h
+c:\users\petru\documents\github\cozfee\cozfee\source\cozfee\Cozfee.h
