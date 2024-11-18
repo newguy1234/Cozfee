@@ -1,0 +1,9 @@
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\Definitions.Cozfee.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Source\Cozfee/MyCharacter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\petru\documents\github\cozfee\cozfee\intermediate\build\win64\ue4editor\inc\cozfee\MyCharacter.generated.h

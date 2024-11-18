@@ -542,3 +542,91 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.18-14.55.47:239][119]LogAssetRegistry: Asset discovery search completed in 13.6045 seconds
 [2024.11.18-14.55.47:245][119]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000011 seconds (found 0 objects)
 [2024.11.18-14.55.47:245][119]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2024.11.18-14.56.10:843][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.18-14.56.10:843][331]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.18-14.56.10:861][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.18-14.56.10:862][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.18-14.56.10:869][331]PIE: New page: PIE session: Untitled_1 (18 Nov 2024 14:56:10)
+[2024.11.18-14.56.10:871][331]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.11.18-14.56.10:875][331]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.18-14.56.10:879][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004599s)
+[2024.11.18-14.56.10:881][331]LogAIModule: Creating AISystem for world Untitled_1
+[2024.11.18-14.56.10:883][331]LogPlayLevel: PIE: World Init took: (0.003897s)
+[2024.11.18-14.56.10:883][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008922s)
+[2024.11.18-14.56.10:937][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.18-14.56.10:950][331]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2024.11.18-14.56.11:555][331]LogInit: FAudioDevice initialized.
+[2024.11.18-14.56.11:580][331]LogLoad: Game class is 'GameModeBase'
+[2024.11.18-14.56.11:596][331]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.11.18-14.56.11
+[2024.11.18-14.56.11:600][331]LogWorld: Bringing up level for play took: 0.005760
+[2024.11.18-14.56.11:602][331]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2024.11.18-14.56.11:667][331]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2024.11.18-14.56.11:689][331]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.682
+[2024.11.18-14.56.11:690][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.18-14.56.20:175][832]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.18-14.56.20:178][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.18-14.56.20:178][832]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.18-14.56.20:178][832]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.18-14.56.20:190][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.18-14.56.20:190][832]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2024.11.18-14.56.20:268][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.18-14.56.20:273][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.11.18-14.56.20:296][833]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.11.18-14.56.21:403][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.18-14.56.30:001][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.18-14.56.33:549][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.18-14.56.40:596][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.18-14.56.40:655][930]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2024.11.18-14.56.41:389][969]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2024.11.18-14.56.41:410][969]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2024.11.18-14.56.42:112][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.11.18-14.56.44:806][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.11.18-14.56.45:795][204]Cmd: DELETE
+[2024.11.18-14.56.45:795][204]Cmd: ACTOR DELETE
+[2024.11.18-14.56.45:827][204]LogEditorActor: Deleted Actor: Character
+[2024.11.18-14.56.45:905][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.11.18-14.56.45:906][204]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2024.11.18-14.57.53:307][997]LogSlate: Took 0.000601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.18-14.57.53:436][997]LogSlate: Took 0.004298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.18-14.58.00:813][299]Candidate modules for hot reload:
+[2024.11.18-14.58.00:813][299]  Cozfee
+[2024.11.18-14.58.00:814][299]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Cozfee,9552 Win64 Development -TargetType=Editor -Project="C:/Users/petru/Documents/GitHub/Cozfee/Cozfee/Cozfee.uproject" "C:/Users/petru/Documents/GitHub/Cozfee/Cozfee/Cozfee.uproject"  -IgnoreJunk]
+[2024.11.18-14.58.21:297][299]CompilerResultsLog: New page: Compilation - 18 Nov 2024 14:58:21
+[2024.11.18-14.58.21:298][299]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\petru\Documents\GitHub\Cozfee).
+[2024.11.18-14.58.21:298][299]CompilerResultsLog: Creating makefile for CozfeeEditor (.uproject file is newer)
+[2024.11.18-14.58.21:298][299]CompilerResultsLog: Parsing headers for CozfeeEditor
+[2024.11.18-14.58.21:298][299]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Cozfee.uproject" "C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\CozfeeEditor\Development\CozfeeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2024.11.18-14.58.21:298][299]CompilerResultsLog: Reflection code generated for CozfeeEditor in 11.8420307 seconds
+[2024.11.18-14.58.21:298][299]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.11.18-14.58.21:299][299]CompilerResultsLog: Building 9 actions with 20 processes...
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [1/9] Cozfee.init.gen.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [2/9] Cozfee.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [3/9] CozfeeGameModeBase.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [4/9] CozfeeGameModeBase.gen.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [5/9] MyCharacter.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [6/9] MyCharacter.gen.cpp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [7/9] UE4Editor-Cozfee-9552.lib
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:      Creating library C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\UE4Editor-Cozfee-9552.lib and object C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\UE4Editor-Cozfee-9552.exp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [8/9] UE4Editor-Cozfee-9552.dll
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:      Creating library C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\UE4Editor-Cozfee-9552.suppressed.lib and object C:\Users\petru\Documents\GitHub\Cozfee\Cozfee\Intermediate\Build\Win64\UE4Editor\Development\Cozfee\UE4Editor-Cozfee-9552.suppressed.exp
+[2024.11.18-14.58.21:299][299]CompilerResultsLog:   [9/9] CozfeeEditor.target
+[2024.11.18-14.58.21:299][299]CompilerResultsLog: Total time in Parallel executor: 4.96 seconds
+[2024.11.18-14.58.21:299][299]CompilerResultsLog: Total execution time: 20.32 seconds
+[2024.11.18-14.58.21:299][299]LogMainFrame: MainFrame: Module compiling took 20.497 seconds
+[2024.11.18-14.58.21:396][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.18-14.58.21:404][299]LogClass: Could not find existing class MyCharacter in package /Script/Cozfee for HotReload, assuming new class
+[2024.11.18-14.58.21:407][299]LogContentBrowser: Native class hierarchy updated for 'Cozfee' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2024.11.18-14.58.21:410][299]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.18-14.58.21:539][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.11.18-14.58.21:556][299]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2866 classes and 684 folders.
+[2024.11.18-14.58.21:559][299]Display: HotReload took 20.8s.
+[2024.11.18-14.58.21:562][299]Warning: HotReload operation took 20.8s.
+[2024.11.18-14.58.23:717][299]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.11.18-14.58.23:743][299]LogHotReload: New module detected: UE4Editor-Cozfee-9552.dll
+[2024.11.18-14.58.23:812][300]LogHotReload: Starting Hot-Reload from IDE
+[2024.11.18-14.58.23:965][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.18-14.58.23:969][300]LogContentBrowser: Native class hierarchy updated for 'Cozfee' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2024.11.18-14.58.23:970][300]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.11.18-14.58.24:015][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.18-14.58.24:028][300]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2866 classes and 684 folders.
+[2024.11.18-14.58.24:033][300]Display: HotReload took  0.2s.

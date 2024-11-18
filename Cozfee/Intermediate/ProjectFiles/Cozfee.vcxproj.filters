@@ -90,4 +90,14 @@
       <Filter>Source\Cozfee</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Cozfee\MyCharacter.h">
+      <Filter>Source\Cozfee</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Cozfee\MyCharacter.cpp">
+      <Filter>Source\Cozfee</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

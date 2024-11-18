@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeCozfee_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x8F2E6CB7,
-				0x5D05555B,
+				0xD2815AFB,
+				0x27C8807B,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
